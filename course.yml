@@ -40,7 +40,11 @@ chunks:
           *SAILS* <i class="fa fa-heart"></i>
           <a href="https://djangoproject.com/"><img src="repo:images/django-logo.png"></a>.
 
+<<<<<<< HEAD
           (Note that all of this is sample content. SAILS  (SAILS test))does not clutter
+=======
+          (Note that all of this is sample content. RELATE  (SAILS test))does not clutter
+>>>>>>> 1b89e991d1345fc0f6f867bedf1da711b79c7d4c
           your course page with information about itself.)
         </div>
 
