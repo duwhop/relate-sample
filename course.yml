@@ -1,11 +1,11 @@
-name: Sample Course
-number: CS123
-run: Fall 2014
+name: Introduction to CS 0
+number: CS100
+run: Fall 2015
 
 chunks:
 
 -
-    title: "Welcome to the sample course"
+    title: "Welcome to the sample CS 0 course"
     id: welcome
     rules:
     -
@@ -20,10 +20,10 @@ chunks:
 
         # Hi there!
 
-        Check out the [linear algebra recap](flow:001-linalg-recap). Do it now. Do it.
+        Check out the [sample exam](flow:sample_exam). Do it now. Do it.
 
         You can also go there using a
-        <a href="flow:001-linalg-recap" role="button" class="btn btn-default">Bootstrap button</a>.
+        <a href="flow:sample_exam" role="button" class="btn btn-default">Bootstrap button</a>.
 
         You can also jump directly to the [sample quiz](flow:quiz-test).
 
@@ -37,10 +37,10 @@ chunks:
         (![creative commons](repo:images/cc.png)/by [kevin dooley](https://secure.flickr.com/photos/pagedooley/13905987989/) on Flickr)
 
         <div class="well" markdown="1">
-          *RELATE* <i class="fa fa-heart"></i>
+          *SAILS* <i class="fa fa-heart"></i>
           <a href="https://djangoproject.com/"><img src="repo:images/django-logo.png"></a>.
 
-          (Note that all of this is sample content. RELATE does not clutter
+          (Note that all of this is sample content. RELATE  (SAILS test))does not clutter
           your course page with information about itself.)
         </div>
 
