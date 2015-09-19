@@ -1,6 +1,6 @@
-title: "Linear Algebra"
+title: "Sample Midterm Exam"
 description: |
-    # Linear Algebra Recap
+    # Sample Midterm Recap
 
 rules:
     access:
@@ -8,7 +8,9 @@ rules:
         if_has_role: [student, ta, instructor]
         permissions: [view]
 
-    grade_identifier: null
+    grading:
+    -
+        grade_identifier: null
 
 pages:
 
