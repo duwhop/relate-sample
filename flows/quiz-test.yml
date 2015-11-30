@@ -18,11 +18,7 @@ rules:
 
     access:
     -
-         if_before: end_week 2
-         permissions: [view, submit_answer, end_session, see_correctness]
-         message: "Welcome! This message is brought to you by the access rules."
-
-    -
+        message: "Welcome! This message is brought to you by the access rules."
         permissions: [view, submit_answer, end_session, see_correctness, see_answer_after_submission]
 
     grade_identifier: la_quiz
@@ -30,6 +26,7 @@ rules:
 
     grading:
     -
+<<<<<<< HEAD
         if_completed_before: end_week 1
         credit_percent: 100
 
@@ -40,6 +37,10 @@ rules:
     -
         credit_percent: 0
 
+=======
+        credit_percent: 100
+
+>>>>>>> 90dd3dc745f825aa31ff91fe8d3c3e8d1fc866aa
 groups:
 -
     id: intro
